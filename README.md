@@ -1,7 +1,7 @@
 # Animal Crossing GraphQL
 
-![Version](https://img.shields.io/github/package-json/v/vmroycroft/rainql)
-![MIT License](https://img.shields.io/github/license/vmroycroft/rainql)
+![Version](https://img.shields.io/github/package-json/v/vmroycroft/acnh-gql)
+![MIT License](https://img.shields.io/github/license/vmroycroft/acnh-gql)
 
 A GraphQL API for the Animal Crossing web app. Built with [Apollo Server](https://www.apollographql.com/docs/apollo-server/).
 
