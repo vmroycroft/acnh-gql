@@ -1,0 +1,1009 @@
+[{
+  "_id": {
+    "$oid": "5e80b330bd2e8938b013da59"
+  },
+  "name": "Black Bass",
+  "category": "Fish",
+  "location": "River",
+  "sellPrice": 400,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b37abd2e8938b013da5a"
+  },
+  "name": "Yellow Perch",
+  "category": "Fish",
+  "location": "River",
+  "sellPrice": 300,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b38dbd2e8938b013da5b"
+  },
+  "name": "Bitterling",
+  "category": "Fish",
+  "location": "River",
+  "sellPrice": 900,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b3bcbd2e8938b013da5c"
+  },
+  "name": "Cherry Salmon",
+  "category": "Fish",
+  "location": "River (Clifftop)",
+  "sellPrice": 1000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b3d5bd2e8938b013da5d"
+  },
+  "name": "Dace",
+  "category": "Fish",
+  "location": "River (Clifftop)",
+  "sellPrice": 240,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b3e4bd2e8938b013da5e"
+  },
+  "name": "Loach",
+  "category": "Fish",
+  "location": "River (Clifftop)",
+  "sellPrice": 400,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b3f3bd2e8938b013da5f"
+  },
+  "name": "Crucian Carp",
+  "category": "Fish",
+  "location": "River (Clifftop)",
+  "sellPrice": 160,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b408bd2e8938b013da60"
+  },
+  "name": "Freshwater Gobi",
+  "category": "Fish",
+  "location": "River (Clifftop)",
+  "sellPrice": 400,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b429bd2e8938b013da61"
+  },
+  "name": "Goldfish",
+  "category": "Fish",
+  "location": "Pond",
+  "sellPrice": 1300,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b438bd2e8938b013da62"
+  },
+  "name": "Tadpole",
+  "category": "Fish",
+  "location": "Pond",
+  "sellPrice": 100,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b444bd2e8938b013da63"
+  },
+  "name": "Koi",
+  "category": "Fish",
+  "location": "Pond",
+  "sellPrice": 4000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b452bd2e8938b013da64"
+  },
+  "name": "Carp",
+  "category": "Fish",
+  "location": "Pond",
+  "sellPrice": 300,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b470bd2e8938b013da65"
+  },
+  "name": "Olive Flounder",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 800,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b483bd2e8938b013da66"
+  },
+  "name": "Dab",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 300,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b48fbd2e8938b013da67"
+  },
+  "name": "Sea Bass",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 400,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b4a2bd2e8938b013da68"
+  },
+  "name": "Horse Mackerel",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 150,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b4aebd2e8938b013da69"
+  },
+  "name": "Squid",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b4bebd2e8938b013da6a"
+  },
+  "name": "Sea Butterfly",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 1000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b51cbd2e8938b013da6b"
+  },
+  "name": "Barred Knifejaw",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 5000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b691d6b0b545c0d2a7ea"
+  },
+  "name": "Emperor Butterfly",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 4000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b6a2d6b0b545c0d2a7eb"
+  },
+  "name": "Paper Kite Butterfly",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 1000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b6bcd6b0b545c0d2a7ec"
+  },
+  "name": "Citrus Long-Horned Beetle",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 350,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b6cbd6b0b545c0d2a7ed"
+  },
+  "name": "Common Butterfly",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 160,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b6e0d6b0b545c0d2a7ee"
+  },
+  "name": "Stinkbug",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 120,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b6ffd6b0b545c0d2a7ef"
+  },
+  "name": "Tiger Butterfly",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 240,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b70cd6b0b545c0d2a7f0"
+  },
+  "name": "Orchid Mantis",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 2400,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b716d6b0b545c0d2a7f1"
+  },
+  "name": "Ladybug",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 200,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b721d6b0b545c0d2a7f2"
+  },
+  "name": "Mantis",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 430,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b72bd6b0b545c0d2a7f3"
+  },
+  "name": "Honeybee",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 200,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b739d6b0b545c0d2a7f4"
+  },
+  "name": "Warf Roach",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 200,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b747d6b0b545c0d2a7f5"
+  },
+  "name": "Tiger Beetle",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 1500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b76fd6b0b545c0d2a7f6"
+  },
+  "name": "Clump of Weeds",
+  "category": "Miscellaneous",
+  "location": "",
+  "sellPrice": 10,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b799d6b0b545c0d2a7f7"
+  },
+  "name": "Sea Snail",
+  "category": "Beach",
+  "location": "",
+  "sellPrice": 180,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b7a5d6b0b545c0d2a7f8"
+  },
+  "name": "Giant Clam",
+  "category": "Beach",
+  "location": "",
+  "sellPrice": 900,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b7afd6b0b545c0d2a7f9"
+  },
+  "name": "Sand Dollar",
+  "category": "Beach",
+  "location": "",
+  "sellPrice": 120,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b7c0d6b0b545c0d2a7fa"
+  },
+  "name": "Cowrie",
+  "category": "Beach",
+  "location": "",
+  "sellPrice": 60,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b7cad6b0b545c0d2a7fb"
+  },
+  "name": "Venus Comb",
+  "category": "Beach",
+  "location": "",
+  "sellPrice": 300,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b7d4d6b0b545c0d2a7fc"
+  },
+  "name": "Coral",
+  "category": "Beach",
+  "location": "",
+  "sellPrice": 500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b80ed6b0b545c0d2a7fd"
+  },
+  "name": "Manila Clam",
+  "category": "Beach",
+  "location": "",
+  "sellPrice": 100,
+  "notes": "Use this to make fish bait."
+},{
+  "_id": {
+    "$oid": "5e80b826d6b0b545c0d2a7fe"
+  },
+  "name": "Conch",
+  "category": "Beach",
+  "location": "",
+  "sellPrice": 700,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b842d6b0b545c0d2a7ff"
+  },
+  "name": "Tricera Torso",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 5000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b870d6b0b545c0d2a800"
+  },
+  "name": "Native",
+  "category": "Fruit",
+  "location": "",
+  "sellPrice": 100,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b882d6b0b545c0d2a801"
+  },
+  "name": "Foreign",
+  "category": "Fruit",
+  "location": "",
+  "sellPrice": 500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80b88ad6b0b545c0d2a802"
+  },
+  "name": "Coconut",
+  "category": "Fruit",
+  "location": "",
+  "sellPrice": 250,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80bbdbd6b0b545c0d2a803"
+  },
+  "name": "Diplo Tail Tip",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 4000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80bc11d6b0b545c0d2a804"
+  },
+  "name": "Bluegill",
+  "category": "Fish",
+  "location": "River",
+  "sellPrice": 180,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80bc1fd6b0b545c0d2a805"
+  },
+  "name": "Tuna",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 7000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80bc2ad6b0b545c0d2a806"
+  },
+  "name": "Red Snapper",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 3000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80bc58d6b0b545c0d2a807"
+  },
+  "name": "Wasp Nest",
+  "category": "Miscellaneous",
+  "location": "",
+  "sellPrice": 300,
+  "notes": "Use this to make medicine."
+},{
+  "_id": {
+    "$oid": "5e80bc78d6b0b545c0d2a808"
+  },
+  "name": "Empty Can",
+  "category": "Miscellaneous",
+  "location": "",
+  "sellPrice": 10,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e80bfedd6b0b545c0d2a809"
+  },
+  "name": "Pop-Eyed Goldfish",
+  "category": "Fish",
+  "location": "Pond",
+  "sellPrice": 1300,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e8137ee8230510fe40ad93e"
+  },
+  "name": "Moth",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 130,
+  "notes": "Only out at night, near lights."
+},{
+  "_id": {
+    "$oid": "5e813cb28230510fe40ad940"
+  },
+  "name": "Hermit Crab",
+  "category": "Beach",
+  "location": "",
+  "sellPrice": 1000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e813cd98230510fe40ad941"
+  },
+  "name": "Anchovy",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 200,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e813cfc8230510fe40ad942"
+  },
+  "name": "Wasp",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 2500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e813d368230510fe40ad943"
+  },
+  "name": "Boot",
+  "category": "Miscellaneous",
+  "location": "",
+  "sellPrice": 10,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e813d6f8230510fe40ad944"
+  },
+  "name": "Man-Faced Stink Bug",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 1000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e8142c18230510fe40ad945"
+  },
+  "name": "Centipede",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 300,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e8142e38230510fe40ad946"
+  },
+  "name": "Football Fish",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 2500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e8143008230510fe40ad947"
+  },
+  "name": "Oarfish",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 9000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e83348568d71722b0ed74af"
+  },
+  "name": "Spino Skull",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 4000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e83349d68d71722b0ed74b0"
+  },
+  "name": "Sabertooth Skull",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 2500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e8334b968d71722b0ed74b1"
+  },
+  "name": "Acanthostega",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 2000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e8334cc68d71722b0ed74b2"
+  },
+  "name": "Pill Bug",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 250,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e8334de68d71722b0ed74b3"
+  },
+  "name": "Peacock Butterfly",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 2500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e8334f668d71722b0ed74b4"
+  },
+  "name": "Char",
+  "category": "Fish",
+  "location": "River (Clifftop)",
+  "sellPrice": 3800,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e83350a68d71722b0ed74b5"
+  },
+  "name": "Golden Trout",
+  "category": "Fish",
+  "location": "River (Clifftop)",
+  "sellPrice": 15000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e83354268d71722b0ed74b6"
+  },
+  "name": "Coelacanth",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 15000,
+  "notes": "Can only be caught on rainy days."
+},{
+  "_id": {
+    "$oid": "5e83355a68d71722b0ed74b7"
+  },
+  "name": "Blue Marlin",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 10000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e84a982d4b9614a8036fc8f"
+  },
+  "name": "Right Ptera Wing",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 4500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e84a99bd4b9614a8036fc90"
+  },
+  "name": "Darner Dragonfly",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 230,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e84a9ced4b9614a8036fc91"
+  },
+  "name": "Long Locust",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 200,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e84a9e2d4b9614a8036fc92"
+  },
+  "name": "Common Bluebottle",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 300,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e84a9f3d4b9614a8036fc93"
+  },
+  "name": "Agrias Butterfly",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 3000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e84aa0ed4b9614a8036fc94"
+  },
+  "name": "Myllokunmingia",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 1500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e854188504210400816a740"
+  },
+  "name": "Snapping Turtle",
+  "category": "Fish",
+  "location": "River",
+  "sellPrice": 5000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e85d4c4541fc543d06de9e7"
+  },
+  "name": "Coprolite",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 1100,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e878ff0afd618330ccf6dd5"
+  },
+  "name": "Madagascan Sunset Moth",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 2500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e879008afd618330ccf6dd6"
+  },
+  "name": "Eusthenopteron",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 2000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e879019afd618330ccf6dd7"
+  },
+  "name": "Trilobite",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 1300,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e87902dafd618330ccf6dd8"
+  },
+  "name": "Brachio Tail",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 5500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e87903dafd618330ccf6dd9"
+  },
+  "name": "Neon Tetra",
+  "category": "Fish",
+  "location": "",
+  "sellPrice": 500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e87905aafd618330ccf6dda"
+  },
+  "name": "Rajah Brooke's Birdwing",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 2500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e879071afd618330ccf6ddb"
+  },
+  "name": "Mole Cricket",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e87907aafd618330ccf6ddc"
+  },
+  "name": "Bagworm",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 600,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e879088afd618330ccf6ddd"
+  },
+  "name": "Ranchu Goldfish",
+  "category": "Fish",
+  "location": "",
+  "sellPrice": 4500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e8878416bac23452cbeee01"
+  },
+  "name": "Killifish",
+  "category": "Fish",
+  "location": "",
+  "sellPrice": 300,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e887d706bac23452cbeee02"
+  },
+  "name": "Butterfly Fish",
+  "category": "Fish",
+  "location": "",
+  "sellPrice": 1000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e88b1476bac23452cbeee03"
+  },
+  "name": "Madagascan Sunset Moth",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 2500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e89f392b6775e2f3ca10810"
+  },
+  "name": "Quetzal Torso",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 4500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e89f3afb6775e2f3ca10811"
+  },
+  "name": "Diplo Neck",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 4500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e8b1b2a3ba9ed4230e44151"
+  },
+  "name": "Giant Water Bug",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 2000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e8b1b663ba9ed4230e44152"
+  },
+  "name": "Iguanodon Torso",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 3500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e90501d57c9b746bc64bff2"
+  },
+  "name": "Amber",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 1200,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e90502d57c9b746bc64bff3"
+  },
+  "name": "Ankylo Tail",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 2500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e90503c57c9b746bc64bff4"
+  },
+  "name": "Spider",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 600,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e90504e57c9b746bc64bff5"
+  },
+  "name": "Brachio Pelvis",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 5000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e90506157c9b746bc64bff6"
+  },
+  "name": "Iguanodon Tail",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 3000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e90508257c9b746bc64bff7"
+  },
+  "name": "Dimetrodon Torso",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 5000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e90509c57c9b746bc64bff8"
+  },
+  "name": "Parasaur Tail",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 2500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e9050ab57c9b746bc64bff9"
+  },
+  "name": "Megacero Torso",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 3500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e91eddbd903fe51a8c85ea5"
+  },
+  "name": "Diplo Pelvis",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 4500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e91edfad903fe51a8c85ea6"
+  },
+  "name": "Juramaia",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 1500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e91ee17d903fe51a8c85ea7"
+  },
+  "name": "Jewel Beetle",
+  "category": "Bug",
+  "location": "",
+  "sellPrice": 2400,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e91ee2fd903fe51a8c85ea8"
+  },
+  "name": "Plesio Skull",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 4000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e9215e510c4c94830de4677"
+  },
+  "name": "Surgeonfish",
+  "category": "Fish",
+  "location": "Ocean",
+  "sellPrice": 1000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e93200810c4c94830de4678"
+  },
+  "name": "Archelon Tail",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 3500,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e93202410c4c94830de4679"
+  },
+  "name": "Pachy Skull",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 4000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5e93204210c4c94830de467a"
+  },
+  "name": "Diplo Skull",
+  "category": "Fossil",
+  "location": "",
+  "sellPrice": 5000,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5eb0154c42ed8a3918f055cd"
+  },
+  "name": "Catfish",
+  "category": "Fish",
+  "location": "Pond",
+  "sellPrice": 800,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5eb0156242ed8a3918f055ce"
+  },
+  "name": "Frog",
+  "category": "Fish",
+  "location": "Pond",
+  "sellPrice": 120,
+  "notes": ""
+},{
+  "_id": {
+    "$oid": "5eb0157642ed8a3918f055cf"
+  },
+  "name": "Angelfish",
+  "category": "Fish",
+  "location": "River",
+  "sellPrice": 3000,
+  "notes": ""
+}]
